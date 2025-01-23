@@ -1,7 +1,5 @@
 package com.example.dslist.dto;
 
-import org.springframework.beans.BeanUtils;
-
 import com.example.dslist.entities.GameList;
 
 public class GameListDTO {
