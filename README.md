@@ -71,5 +71,9 @@ spring.datasource.password=sua_senha
 Execute a aplicação:
 
 mvn spring-boot:run
+
+body do postman para reposicionar um game:
+
+![Captura de tela 2025-02-06 202647](https://github.com/user-attachments/assets/179e5af3-b555-4f20-8b44-6949591867ff)
 ************************************************************************************************************************************************************************************************************************************
 📧 Contato: cleiton_inacio@outlook.com | LinkedIn: www.linkedin.com/in/cleitoninacio
